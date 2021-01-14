@@ -1,0 +1,21 @@
+name: NoOneRP
+version: ${project.version}
+main: noonerp.noonerp.NoOneRP
+api-version: 1.16
+prefix: NRP
+authors: [ NoOneBoss ]
+description: Special for RestrartCraft
+website: vk.com/nooneb0ss
+commands:
+  me:
+    description: Действия от лица персонажа
+    usage: /me <действие>
+  do:
+    description: Описание ситуации происходящей поблизости
+    usage: /do <действие>
+  try:
+    description: Действие от лица персонажа успешное и неудачное
+    usage: /try <действие>
+  rpreload:
+    description: Перезагрузка плагина
+    usage: /rpreload
