@@ -1,9 +1,9 @@
 # NoOneRolePlay plugin
 ### Commands: 
-+ /me 
-+ /do 
-+ /try 
-+ /rpreload
++ /me - Actions on behalf of the character
++ /do - Description of the situation occurring nearby
++ /try - Action on behalf of the character successful and unsuccessful
++ /rpreload - Reloading all config files
 
 
 
